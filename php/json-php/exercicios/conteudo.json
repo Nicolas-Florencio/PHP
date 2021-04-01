@@ -1,0 +1,78 @@
+
+
+[
+        {        
+            "titulo": "Caixa de som",
+            "imagens": "imagens/caixaDeSom.jpg"
+        },     
+
+        {
+            "titulo": "Fone sem fio bluetooth",
+            "imagens": "imagens/foneSemFio.jpg"
+        },
+        
+        {
+            "titulo": "Foto de notebook porque sim",
+            "imagens": "imagens/notebook.jpg"
+        },             
+        
+        {
+            "titulo": "Celularzao",
+            "imagens": "imagens/pocoPhone.jpg"
+        },
+            
+        {
+            "titulo": "Processadores",
+            "imagens": "imagens/processadores.jpg"
+        },
+
+        {
+            "titulo": "Setup de trabalho",
+            "imagens": "imagens/setup.jpg"
+        },
+                        
+        {
+            "titulo": "Logo da BMW",
+            "imagens": "imagens/bmwLogo.jpg"
+        },    
+                   
+        {
+            "titulo": "Carrao",
+            "imagens": "imagens/car.jpg"
+        },   
+           
+        {
+            "titulo": "Criança",
+            "imagens": "imagens/crianca.jpg"
+        },                
+            
+        {
+            "titulo": "Cachorro dando rolê",
+            "imagens": "imagens/dogNoCarro.jpg"
+        },                
+            
+        {
+            "titulo": "Cachorros dando rolê",
+            "imagens": "imagens/dogs.jpg"
+        }, 
+            
+        {
+            "titulo": "Foto dahora",
+            "imagens": "imagens/glasses.jpg"
+        },                
+            
+        {
+            "titulo": "Massa de macarron",
+            "imagens": "imagens/macarrao.jpg"
+        },
+
+        {
+            "titulo": "Máquina de escrever",
+            "imagens": "imagens/maquinaEscrever.jpg"
+        },
+
+        {
+            "titulo": "Pandemia ta osso",
+            "imagens": "imagens/pandemia.jpg"
+        }
+]

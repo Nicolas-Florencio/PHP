@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+    <array>
+        <materia>
+            <aula>
+                <titulo>Aula01</titulo>
+                <texto>Variáveis</texto>
+            </aula>
+
+            <aula>
+                <titulo>Aula02</titulo>
+                <texto>EstruturadeDecisão</texto>
+            </aula>
+
+            <aula>
+                <titulo>Aula03</titulo>
+                <texto>EstruturadeRepetição</texto>
+            </aula>
+
+            <nota>
+                <avaliacao>Escrita</avaliacao>
+                <peso>60%</peso>
+            </nota>
+
+            <nota>
+                <avaliacao>Trabalho</avaliacao>
+                <peso>40%</peso>
+            </nota>
+        </materia>
+    </array>
+    

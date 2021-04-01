@@ -3,10 +3,10 @@
 <title>Partida de fut</title>
 <form action="res12.php" method="get">
 
-    Informe o nome do time 1: <br><input type="text" name="name1"/> <br>
-    Informe o nome do time 2: <br><input type="text" name="name2"/> <br>
-    Informe a quantidade de gols marcados pelo time 1 <br><input type="number" step="any" name="gol1"/> <br>
-    Informe a quantidade de gols marcados pelo time 2 <br><input type="number" step="any" name="gol2"/> <br>
+    <p>Informe o nome do time 1: </p><br><input type="text" name="name1"/> <br>
+    <p>Informe o nome do time 2: </p><br><input type="text" name="name2"/> <br>
+    <p>Informe a quantidade de gols marcados pelo time 1 </p><br><input type="number" step="any" name="gol1"/> <br>
+    <p>Informe a quantidade de gols marcados pelo time 2 </p><br><input type="number" step="any" name="gol2"/> <br>
 
     <br> <input type="submit" value="Comparar"/>
     
